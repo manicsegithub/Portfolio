@@ -32,9 +32,9 @@ function Navbar(){
             <FaLaptopCode />
         </a>
 
-        <a href="#projects"
-           onClick={() => setActive('#projects')}
-           className={active === "#projects" ? "active" : ""}
+        <a href="#Project"
+           onClick={() => setActive('#Project')}
+           className={active === "#project" ? "active" : ""}
         >
             <GoChecklist />
         </a>

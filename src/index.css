@@ -49,7 +49,7 @@ body{
 }
 
 section{
-  margin-top: 7rem;
+  margin-top: 5rem;
 }
 
 section > h2,
@@ -60,7 +60,7 @@ section > h5{
 
 section > h2{
   columns: var(--color-primary);
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 h1, h2, h3, h4, h5{

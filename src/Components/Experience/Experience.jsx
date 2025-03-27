@@ -37,7 +37,7 @@ function Experience() {
                     <article className='experience_details'>
                         <BsFillPatchCheckFill  className='experience_icon'/>
                         <div>
-                            <h4>Bootstrap 5</h4>
+                            <h4>Bootstrap_5</h4>
                             <small className='text-light'> Intermediate </small>
                         </div>
                     </article>
