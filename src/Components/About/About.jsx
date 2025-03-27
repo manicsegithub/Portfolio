@@ -9,7 +9,7 @@ import './About.css';
 function About() {
     return ( 
     <>
-       <section>
+       <section id='about'>
          <h5>Get To Know</h5>
          <h2>About Me</h2>
 

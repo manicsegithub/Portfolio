@@ -3,7 +3,7 @@
     /* grid-template-columns: 1fr 1fr; */
     grid-template-columns:  1fr;
     gap: 2rem;
-    padding-right: 1rem;
+    padding-right: .1rem;
 }
 
 .experience_container > div{

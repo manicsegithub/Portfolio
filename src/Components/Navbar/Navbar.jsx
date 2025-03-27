@@ -34,7 +34,7 @@ function Navbar(){
 
         <a href="#Project"
            onClick={() => setActive('#Project')}
-           className={active === "#project" ? "active" : ""}
+           className={active === "#Project" ? "active" : ""}
         >
             <GoChecklist />
         </a>
