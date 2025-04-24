@@ -29,6 +29,6 @@
     "vite": "^6.2.0"
   },
   "scripts": {
-  "build": "next build" // or whatever framework you're using
+  "build": "next build" 
 }
 }
