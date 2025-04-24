@@ -23,10 +23,10 @@ function Home(){
             </div>
 
             <div className="home_social">
-                <a href="">
+                <a href="https://www.linkedin.com/in/manikandan11/">
                     <BsLinkedin />
                 </a>
-                <a href="">
+                <a href="https://github.com/manicsegithub">
                     <BsGithub />
                 </a>
             </div>
