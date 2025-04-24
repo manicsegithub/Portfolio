@@ -15,8 +15,8 @@ function Footer() {
         </ul>
 
         <div className='footer_social'>
-          <a href=""><BsLinkedin /></a>
-          <a href=""><BsGithub /></a>
+          <a href="https://www.linkedin.com/in/manikandan11/"><BsLinkedin /></a>
+          <a href="https://github.com/manicsegithub"><BsGithub /></a>
         </div>
 
         <div className="footer_copyright">

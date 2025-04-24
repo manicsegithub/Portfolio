@@ -53,8 +53,6 @@ function About() {
                 </div>
                 <p>
                     Hi, I'm Manikandan B, a Skilled full-stack developer.
-                    Hi, I'm Manikandan B, a Skilled full-stack developer.
-                    Hi, I'm Manikandan B, a Skilled full-stack developer.
                 </p>
             </div>
 

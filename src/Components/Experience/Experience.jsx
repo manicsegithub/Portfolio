@@ -6,8 +6,8 @@ function Experience() {
     return ( 
     <>
     <section id='experience'>
-        <h5>The Skills I have</h5>
-        <h2> My Experience </h2>
+        {/* <h5>The Skills I have</h5> */}
+        <h2> My Skills Set </h2>
 
         <div className="container experience_container">
             <div className="experience_frontend">
@@ -52,8 +52,22 @@ function Experience() {
             </div>
 
             <div className="experience_frontend">
-                <h3>Back-End Development</h3>
+                <h3>BackEnd Development</h3>
                 <div className="experience_content">
+                <article className='experience_details'>
+                        <BsFillPatchCheckFill  className='experience_icon'/>
+                        <div>
+                            <h4>Java</h4>
+                            <small className='text-light'> Intermediate </small>
+                        </div>
+                    </article>
+                    <article className='experience_details'>
+                        <BsFillPatchCheckFill  className='experience_icon'/>
+                        <div>
+                            <h4>Java SpringBoot</h4>
+                            <small className='text-light'> Beginner </small>
+                        </div>
+                    </article>
                     <article className='experience_details'>
                         <BsFillPatchCheckFill  className='experience_icon'/>
                         <div>

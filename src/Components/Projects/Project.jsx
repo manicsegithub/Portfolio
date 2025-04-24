@@ -1,7 +1,7 @@
 import React from 'react';
-import me from '/img/me.jpg';
-import me1 from '/img/me.jpg';
-import me2 from '/img/me.jpg';
+import bg from '/img/BG.jpg';
+import Food from '/img/Food.png';
+import ECommerce from '/img/ecommerce.png';
 import './Project.css';
 
 function Project() {
@@ -13,34 +13,34 @@ function Project() {
         <div className="container project_container">
             <article className='project_item'>
                 <div className="project_item_image">
-                    <img src={me} alt="" />
+                    <img src={bg} alt="" />
                 </div>
                 <h3>BG Calc</h3>
-                <small className='text-light'> Javascript </small>
+                <small className='text-light'> HTML, CSS3, Javascript </small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'> Github </a>
+                    <a href="https://github.com/manicsegithub/BG_Cal" className='btn'> Github </a>
                 </div>
             </article>
 
             <article className='project_item'>
                 <div className="project_item_image">
-                    <img src={me1} alt="" />
+                    <img src={Food} alt="" />
                 </div>
-                <h3>BG Calc</h3>
-                <small className='text-light'> Javascript </small>
+                <h3>FooD Court</h3>
+                <small className='text-light'>React JS, RestAPI, PostMan</small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'> Github </a>
+                    <a href="https://github.com/manicsegithub/Food_Court" className='btn'> Github </a>
                 </div>
             </article>
 
             <article className='project_item'>
                 <div className="project_item_image">
-                    <img src={me2} alt="" />
+                    <img src={ECommerce} alt="" />
                 </div>
-                <h3>BG Calc</h3>
-                <small className='text-light'> Javascript </small>
+                <h3>E-Commerce</h3>
+                <small className='text-light'> HTML, CSS3, PHP, Mysql, Xampp </small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'> Github </a>
+                    <a href="https://github.com/manicsegithub/e_commerce" className='btn'> Github </a>
                 </div>
             </article>
 
