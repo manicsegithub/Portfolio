@@ -35,7 +35,7 @@ function Home(){
                 <img src={ME} alt="Mani"/>
             </div>
 
-            <a href="/contact" className="scroll_down">
+            <a href="#contact" className="scroll_down">
               Scroll Down
             </a>
         </div>
